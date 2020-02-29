@@ -30,13 +30,13 @@ export const TERRITORIES = [
     superpower: 'Let it snow!'
   },
   {
-    id: 'gotham',
-    name: 'Gotham City',
+    id: 'nyc',
+    name: 'New York City',
     superpower: 'Protected by the Bat!?'
   },
   {
-    id: 'winterfell',
-    name: 'Winterfell',
+    id: 'alaska',
+    name: 'Alaska',
     superpower: 'Lady Stark, need I write more?'
   }
 ]
